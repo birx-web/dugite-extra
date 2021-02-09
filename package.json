@@ -34,7 +34,7 @@
   "dependencies": {
     "byline": "^5.0.0",
     "dugite-no-gpl": "1.69.0",
-    "find-git-exec": "^0.0.3",
+    "find-git-exec": "git+https://github.com/birx-web/find-git-exec.git",
     "upath": "^1.0.0"
   },
   "devDependencies": {
